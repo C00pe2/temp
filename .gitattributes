@@ -1,0 +1,1 @@
+my_image.part-aa filter=lfs diff=lfs merge=lfs -text
